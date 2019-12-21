@@ -17,8 +17,8 @@ In this project we will find the best possible answer to the multiple choice que
   
 #### Evaluation :
 
-    + For each query, we find the *cosine similarity* between the query and each of the documents and use the similarity 
+  + For each query, we find the *cosine similarity* between the query and each of the documents and use the similarity 
     score of the most matching document as the score of your system for the query. 
-    +  We repeat this for all the options and our answer for a particular question should be the (Q​i + O​i​) combination 
+  +  We repeat this for all the options and our answer for a particular question should be the (Q​i + O​i​) combination 
     with the maximum score. 
     
